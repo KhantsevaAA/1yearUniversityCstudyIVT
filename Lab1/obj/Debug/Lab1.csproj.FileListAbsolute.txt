@@ -1,0 +1,8 @@
+D:\Misis\ПиА\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Misis\ПиА\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Misis\ПиА\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Misis\ПиА\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Misis\ПиА\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\Misis\ПиА\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Misis\ПиА\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Misis\ПиА\Lab1\Lab1\obj\Debug\Lab1.pdb
