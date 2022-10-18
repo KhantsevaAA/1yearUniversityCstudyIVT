@@ -63,22 +63,41 @@ namespace Lab3._2._6_7_8
             x=0;
             Console.WriteLine("\nЗадание 7");
             for (int i=1; i<=n; i++)
-                if (mas[i] > mas[x])
+                if (mas[x] < mas[i])
                     x=i;
             if (x < n)
-                mas[x + 1] = mas[x + 1] * 2;
+            {
+                Console.Write("Новый массив: ");
+                for (int i = 0; i <= n; i++)
+                {
+                    if (mas[i] == mas[x])
+                        mas[i + 1] = mas[i + 1] * 2;
+                    Console.Write($"{mas[i]} ");
+                }
+            }
             else
-                Console.WriteLine("Максимальный элемент массива в конце=>Не изменился");
-            for (int i = 0; i <= n; i++)
-                Console.Write($"{mas[i]} ");
-            int m=x;
-            for (int i = x; i < n; i++)
-                if (mas[i] < mas[m])
-                    m = i;
-            s = mas[x];
-            mas[x] = mas[m];
-            mas[m] = s;
+                Console.WriteLine("Единственный максимальный элемент массива в конце=>Не изменился");
 
+            Console.WriteLine("\nЗадание 8");
+            x = 0;
+            for (int i = 1; i <= n; i++)
+                if (mas[x] < mas[i])
+                    x = i;
+            if (x != n)
+            {
+                int m = x;
+                for (int i = x + 1; i <= n; i++)
+                    if (mas[i] < mas[m])
+                        m = i;
+                s = mas[x];
+                mas[x] = mas[m];
+                mas[m] = s;
+                Console.Write("Новый массив: ");
+                for (int i = 0; i <= n; i++)
+                    Console.Write($"{mas[i]} ");
+            }
+            else
+                Console.WriteLine("Единственный максимальный элемент массива в конце=>Не изменился");
 
         }
 
