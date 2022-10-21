@@ -14,7 +14,7 @@ namespace Lab3._3._12_13_14
             double[] mas = new double[lmax];
             bool f = true;
             string str;
-            Console.WriteLine("Лабораторная работа №3. Сложность 2\n" +
+            Console.WriteLine("Лабораторная работа №3. Сложность 3\n" +
                 $"Введите элементы массива через Enter не более {lmax}, для окончания введите 'end' (после некорректного ввода, 'end' программа не примет):");
             do
             {
@@ -26,7 +26,7 @@ namespace Lab3._3._12_13_14
                 {
                     while (!double.TryParse(str.Replace('.', ','), out mas[n]))
                     {
-                        Console.Write($"  Упс! Некорректное значение. Попробуйте ещё раз. Элемент {n}: ");
+                        Console.Write($"  Упс! Некорректное значение. Попробуйте ещё раз. Элемент {n+1}: ");
                         str = Console.ReadLine();
                     }
                     n = n + 1;
