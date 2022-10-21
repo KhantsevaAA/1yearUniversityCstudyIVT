@@ -6,3 +6,11 @@ D:\Misis\ПиА\3LAB\Lab3\Lab3.3.12-13-14\bin\Debug\Lab3.3.12-13-14.exe
 D:\Misis\ПиА\3LAB\Lab3\Lab3.3.12-13-14\bin\Debug\Lab3.3.12-13-14.pdb
 D:\Misis\ПиА\3LAB\Lab3\Lab3.3.12-13-14\obj\Debug\Lab3.3.12-13-14.exe
 D:\Misis\ПиА\3LAB\Lab3\Lab3.3.12-13-14\obj\Debug\Lab3.3.12-13-14.pdb
+D:\Misis\studyCminiprogects\Lab3\Lab3.3.12-13-14\bin\Debug\Lab3.3.12-13-14.exe.config
+D:\Misis\studyCminiprogects\Lab3\Lab3.3.12-13-14\bin\Debug\Lab3.3.12-13-14.exe
+D:\Misis\studyCminiprogects\Lab3\Lab3.3.12-13-14\bin\Debug\Lab3.3.12-13-14.pdb
+D:\Misis\studyCminiprogects\Lab3\Lab3.3.12-13-14\obj\Debug\Lab3.3.12-13-14.csproj.AssemblyReference.cache
+D:\Misis\studyCminiprogects\Lab3\Lab3.3.12-13-14\obj\Debug\Lab3.3.12-13-14.csproj.SuggestedBindingRedirects.cache
+D:\Misis\studyCminiprogects\Lab3\Lab3.3.12-13-14\obj\Debug\Lab3.3.12-13-14.csproj.CoreCompileInputs.cache
+D:\Misis\studyCminiprogects\Lab3\Lab3.3.12-13-14\obj\Debug\Lab3.3.12-13-14.exe
+D:\Misis\studyCminiprogects\Lab3\Lab3.3.12-13-14\obj\Debug\Lab3.3.12-13-14.pdb
