@@ -22,7 +22,7 @@ namespace Lab5._1._1_2_3
         }
         static void input(out double x)
         {
-            while(!double.TryParse(Console.ReadLine().Replace('.',','), out x))
+            while((!double.TryParse(Console.ReadLine().Replace('.',','), out x)) || (x<=0))
                 Console.Write(" Упс!Некорретное значение.\n Попробуйте ещё раз: ");
 
         }
@@ -67,7 +67,7 @@ namespace Lab5._1._1_2_3
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Лабораторная работа №5. Сложность 1\n\nЗадание 1");
+            Console.WriteLine("Лабораторная работа №5. Сложность 1\nЗадание 1");
             int team=5, candidate = 8;
             Console.WriteLine(C(team, candidate));
             candidate = 10;
@@ -75,14 +75,14 @@ namespace Lab5._1._1_2_3
             candidate = 11;
             Console.WriteLine(C(team, candidate));
             
-            Console.Write("Задание 2\n Введите параметры треугольника№1. a = ");
+            Console.Write("Задание 2\n Введите параметры треугольника№1.\n a = ");
             double a1, b1, c1, a2, b2, c2;
             input(out a1);
             Console.Write(" b = ");
             input(out b1);
             Console.Write(" c = ");
             input(out c1);
-            Console.Write(" Введите параметры треугольника№2. a = ");
+            Console.Write(" Введите параметры треугольника№2.\n a = ");
             input(out a2);
             Console.Write(" b = ");
             input(out b2);
@@ -106,9 +106,9 @@ namespace Lab5._1._1_2_3
             double? x;
             x = time(b1, a1, b2, a2);
             if (x == null)
-                Console.WriteLine("Второй спортсмен не догонит первого");
+                Console.WriteLine(" Второй спортсмен не догонит первого");
             else
-                Console.WriteLine($"Второй спортсмен догонит первого через {x:f5} часа");
+                Console.WriteLine($" Второй спортсмен догонит первого через {x:f5} часа");
         }
     }
 }
