@@ -14,7 +14,7 @@ namespace Lab._5._2._26_27_28
     {
         static void inputint(out int x)
         {
-            while ((!int.TryParse(Console.ReadLine().Replace('.', ','), out x) && (x<=0)))
+            while ((!int.TryParse(Console.ReadLine().Replace('.', ','), out x) || (x<=0)))
                 Console.Write(" Упс!Некорретное значение.\n Попробуйте ещё раз: ");
 
         }static void inputdouble(out double x)
