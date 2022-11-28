@@ -1,0 +1,8 @@
+D:\Misis\ПиА\4LAB\Lab4\Lab4.1.7-8-9\bin\Debug\Lab4.1.7-8-9.exe.config
+D:\Misis\ПиА\4LAB\Lab4\Lab4.1.7-8-9\bin\Debug\Lab4.1.7-8-9.exe
+D:\Misis\ПиА\4LAB\Lab4\Lab4.1.7-8-9\bin\Debug\Lab4.1.7-8-9.pdb
+D:\Misis\ПиА\4LAB\Lab4\Lab4.1.7-8-9\obj\Debug\Lab4.1.7-8-9.csproj.AssemblyReference.cache
+D:\Misis\ПиА\4LAB\Lab4\Lab4.1.7-8-9\obj\Debug\Lab4.1.7-8-9.csproj.SuggestedBindingRedirects.cache
+D:\Misis\ПиА\4LAB\Lab4\Lab4.1.7-8-9\obj\Debug\Lab4.1.7-8-9.csproj.CoreCompileInputs.cache
+D:\Misis\ПиА\4LAB\Lab4\Lab4.1.7-8-9\obj\Debug\Lab4.1.7-8-9.exe
+D:\Misis\ПиА\4LAB\Lab4\Lab4.1.7-8-9\obj\Debug\Lab4.1.7-8-9.pdb

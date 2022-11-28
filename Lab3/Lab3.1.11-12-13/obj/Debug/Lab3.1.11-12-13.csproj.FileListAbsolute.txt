@@ -1,8 +1,0 @@
-D:\Misis\ПиА\3LAB\Lab3.1.11-12-13\bin\Debug\Lab3.1.11-12-13.exe.config
-D:\Misis\ПиА\3LAB\Lab3.1.11-12-13\bin\Debug\Lab3.1.11-12-13.exe
-D:\Misis\ПиА\3LAB\Lab3.1.11-12-13\bin\Debug\Lab3.1.11-12-13.pdb
-D:\Misis\ПиА\3LAB\Lab3.1.11-12-13\obj\Debug\Lab3.1.11-12-13.csproj.AssemblyReference.cache
-D:\Misis\ПиА\3LAB\Lab3.1.11-12-13\obj\Debug\Lab3.1.11-12-13.csproj.SuggestedBindingRedirects.cache
-D:\Misis\ПиА\3LAB\Lab3.1.11-12-13\obj\Debug\Lab3.1.11-12-13.csproj.CoreCompileInputs.cache
-D:\Misis\ПиА\3LAB\Lab3.1.11-12-13\obj\Debug\Lab3.1.11-12-13.exe
-D:\Misis\ПиА\3LAB\Lab3.1.11-12-13\obj\Debug\Lab3.1.11-12-13.pdb
