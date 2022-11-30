@@ -6,3 +6,11 @@ D:\Misis\ПиА\5LAB\Lab5\Lab5.3.2-3-4\obj\Debug\Lab5.3.2-3-4.csproj.SuggestedBi
 D:\Misis\ПиА\5LAB\Lab5\Lab5.3.2-3-4\obj\Debug\Lab5.3.2-3-4.csproj.CoreCompileInputs.cache
 D:\Misis\ПиА\5LAB\Lab5\Lab5.3.2-3-4\obj\Debug\Lab5.3.2-3-4.exe
 D:\Misis\ПиА\5LAB\Lab5\Lab5.3.2-3-4\obj\Debug\Lab5.3.2-3-4.pdb
+D:\Misis\studyCminiprogects\5LAB\Lab5\Lab5.3.2-3-4\bin\Debug\Lab5.3.2-3-4.exe.config
+D:\Misis\studyCminiprogects\5LAB\Lab5\Lab5.3.2-3-4\bin\Debug\Lab5.3.2-3-4.exe
+D:\Misis\studyCminiprogects\5LAB\Lab5\Lab5.3.2-3-4\bin\Debug\Lab5.3.2-3-4.pdb
+D:\Misis\studyCminiprogects\5LAB\Lab5\Lab5.3.2-3-4\obj\Debug\Lab5.3.2-3-4.csproj.AssemblyReference.cache
+D:\Misis\studyCminiprogects\5LAB\Lab5\Lab5.3.2-3-4\obj\Debug\Lab5.3.2-3-4.csproj.SuggestedBindingRedirects.cache
+D:\Misis\studyCminiprogects\5LAB\Lab5\Lab5.3.2-3-4\obj\Debug\Lab5.3.2-3-4.csproj.CoreCompileInputs.cache
+D:\Misis\studyCminiprogects\5LAB\Lab5\Lab5.3.2-3-4\obj\Debug\Lab5.3.2-3-4.exe
+D:\Misis\studyCminiprogects\5LAB\Lab5\Lab5.3.2-3-4\obj\Debug\Lab5.3.2-3-4.pdb
