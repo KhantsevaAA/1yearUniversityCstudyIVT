@@ -89,26 +89,26 @@ namespace Lab5._1._1_2_3
             Console.Write(" c = ");
             input(out c2);
             if (geron(a1, b1, c1) > geron(a2, b2, c2))
-                Console.WriteLine($" Большая полощадь у треугольника№1 s1={geron(a1, b1, c1)}");
+                Console.WriteLine($" Большая площадь у треугольника№1 s1={geron(a1, b1, c1)}");
             else
-                Console.WriteLine($" Большая полощадь у треугольника№2 s2={geron(a2, b2, c2)}");
+                Console.WriteLine($" Большая площадь у треугольника№2 s2={geron(a2, b2, c2)}");
             a1 = 1; a2 = 1.6; b1 = 10; b2 = 9;
-            Console.Write($"\nЗадание2.\n Дано: v1={b1}, a1={a1}, v2={b2}, a2={a2}.\n a)Большее расстояние за 1 ч преодолеет");
+            Console.Write($"\nЗадание 3 \n Дано: v1={b1}, a1={a1}, v2={b2}, a2={a2}.\n a)Большее расстояние за 1 ч преодолеет");
             if (s(b1, a1, 1) > s(b2, a2, 1))
                 Console.WriteLine($"первый велосипедист s1={s(b1, a1, 1) }");
             else
-                Console.WriteLine($"второй велосипедист s1={s(b2, a2, 1) }");
+                Console.WriteLine($"второй велосипедист s2={s(b2, a2, 1) }");
             Console.Write("   Большее расстояние за 4 ч преодолеет ");
             if (s(b1, a1, 4 )> s(b2, a2, 4))
                 Console.WriteLine($"первый велосипедист s1={s(b1, a1, 4) }");
             else
-                Console.WriteLine($"второй велосипедист s1={s(b2, a2, 4) }");
+                Console.WriteLine($"второй велосипедист s2={s(b2, a2, 4) }");
             double? x;
             x = time(b1, a1, b2, a2);
             if (x == null)
-                Console.WriteLine(" Второй спортсмен не догонит первого");
+                Console.WriteLine(" б)Второй спортсмен не догонит первого");
             else
-                Console.WriteLine($" Второй спортсмен догонит первого через {x:f5} часа");
+                Console.WriteLine($" б)Второй спортсмен догонит первого через {x:f5} часа");
         }
     }
 }

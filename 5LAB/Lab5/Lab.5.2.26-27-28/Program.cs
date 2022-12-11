@@ -178,7 +178,7 @@ namespace Lab._5._2._26_27_28
                             n++;
                         f = false;
                     }
-                    Console.WriteLine($"{n}");
+                    //Console.WriteLine($"{n}");
                     if (n == x.GetLength(1) - 1)
                     {
                         if (f == true)
@@ -287,7 +287,7 @@ namespace Lab._5._2._26_27_28
                     n = Math.Abs(int.Parse(Regex.Replace(xs[0], @"[^\d]", ""))- int.Parse(Regex.Replace(xs[1], @"[^\d]", "")));
                     m = Math.Abs(int.Parse(Regex.Replace(ys[0], @"[^\d]", ""))- int.Parse(Regex.Replace(ys[1], @"[^\d]", "")));
                     if (n == m)
-                        return $"есть и в y1=f(x), и в y2=f(x) " + x + " и " + y + " соответственно";
+                        return $"есть и в y1=f(x), и в y2=f(x) на" + x + " и " + y+" соответственно";
                     else
                     {
                         if (n > m)
