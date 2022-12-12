@@ -294,6 +294,7 @@ namespace Lab6._2._8_9_1
 
             Console.WriteLine("\nЗадание 1\n Список студентов:");
             student[] per = new student[30];
+            Console.WriteLine($"{"Фамилия",12}" + $"{"#1",4}" + $"{"#2",4}" + $"{"#3",4}" + $"{"#4",4}");
             for (int i = 0; i < per.Length; i++)
             {
                 per[i].name = $"Cтуд{i}ент";
@@ -304,6 +305,7 @@ namespace Lab6._2._8_9_1
                 Console.WriteLine($"{per[i].name,12}" + $"{per[i].g1,4}" + $"{per[i].g2,4}" + $"{per[i].g3,4}" + $"{per[i].g4,4}");
             }
             Console.WriteLine("\n Список в порядке убывания среднего балла:");
+            Console.WriteLine($"{"№",3}"+$"{"Фамилия",12}" + $"{"#1",4}" + $"{"#2",4}" + $"{"#3",4}" + $"{"#4",4}");
             n = success(per);
             for (int i = 0; i < n; i++)
                 Console.WriteLine($"{i+1,3}" + $"{per[i].name,12}" + $"{per[i].g1,4}" + $"{per[i].g2,4}" + $"{per[i].g3,4}" + $"{per[i].g4,4}");
