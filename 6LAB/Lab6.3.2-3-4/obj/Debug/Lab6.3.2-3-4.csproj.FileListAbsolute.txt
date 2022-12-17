@@ -1,0 +1,8 @@
+D:\Misis\ПиА\6LAB\Lab6\Lab6.3.2-3-4\bin\Debug\Lab6.3.2-3-4.exe.config
+D:\Misis\ПиА\6LAB\Lab6\Lab6.3.2-3-4\bin\Debug\Lab6.3.2-3-4.exe
+D:\Misis\ПиА\6LAB\Lab6\Lab6.3.2-3-4\bin\Debug\Lab6.3.2-3-4.pdb
+D:\Misis\ПиА\6LAB\Lab6\Lab6.3.2-3-4\obj\Debug\Lab6.3.2-3-4.csproj.AssemblyReference.cache
+D:\Misis\ПиА\6LAB\Lab6\Lab6.3.2-3-4\obj\Debug\Lab6.3.2-3-4.csproj.SuggestedBindingRedirects.cache
+D:\Misis\ПиА\6LAB\Lab6\Lab6.3.2-3-4\obj\Debug\Lab6.3.2-3-4.csproj.CoreCompileInputs.cache
+D:\Misis\ПиА\6LAB\Lab6\Lab6.3.2-3-4\obj\Debug\Lab6.3.2-3-4.exe
+D:\Misis\ПиА\6LAB\Lab6\Lab6.3.2-3-4\obj\Debug\Lab6.3.2-3-4.pdb
