@@ -1,0 +1,8 @@
+D:\Misis\ООП(Объектно-орентирование программирование)\7LAB\Lab1(7)\Lab1(7).1.2-3\bin\Debug\Lab1(7).1.2-3.exe.config
+D:\Misis\ООП(Объектно-орентирование программирование)\7LAB\Lab1(7)\Lab1(7).1.2-3\bin\Debug\Lab1(7).1.2-3.exe
+D:\Misis\ООП(Объектно-орентирование программирование)\7LAB\Lab1(7)\Lab1(7).1.2-3\bin\Debug\Lab1(7).1.2-3.pdb
+D:\Misis\ООП(Объектно-орентирование программирование)\7LAB\Lab1(7)\Lab1(7).1.2-3\obj\Debug\Lab1(7).1.2-3.csproj.AssemblyReference.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\7LAB\Lab1(7)\Lab1(7).1.2-3\obj\Debug\Lab1(7).1.2-3.csproj.SuggestedBindingRedirects.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\7LAB\Lab1(7)\Lab1(7).1.2-3\obj\Debug\Lab1(7).1.2-3.csproj.CoreCompileInputs.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\7LAB\Lab1(7)\Lab1(7).1.2-3\obj\Debug\Lab1(7).1.2-3.exe
+D:\Misis\ООП(Объектно-орентирование программирование)\7LAB\Lab1(7)\Lab1(7).1.2-3\obj\Debug\Lab1(7).1.2-3.pdb
