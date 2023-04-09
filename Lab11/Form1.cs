@@ -21,12 +21,12 @@ namespace Lab11
         private void Form1_Load(object sender, EventArgs e)
         {
             this.Text = "Лабораторная работа №3 во 2 семестре. Крестики-нолики";
-            label1.Text = "Игрок 1";
+            label1.Text = "Игрок 1: O";
             label1.Location = new Point(10, 10);
             label1.Font = new Font("T-FLEX Type A", 11);
             label2.Font = label1.Font;
             //label1.Font = new Font("Malgun Gothic", 11);
-            label2.Text = "Игрок 2";
+            label2.Text = "Игрок 2: X";
             label2.Top = label1.Top;
             label2.Left = this.ClientRectangle.Width - label1.Left - label2.Width;
             label3.Text = "Счёт\n 0:0";
@@ -38,6 +38,8 @@ namespace Lab11
             button1.Size = new Size(90, 30);
             button2.Size = button1.Size;
             button2.Text = "Новая игра";
+            button1.Font= label1.Font;
+            button2.Font= label1.Font;
         }
         private void Form1_Resize(object sender, EventArgs e)
         {
