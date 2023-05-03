@@ -290,7 +290,7 @@ namespace Lab11_l2_
                 }
                 else
                 {
-                    label3.Text = words[0] + " " + words[1] + ":" + (int.Parse(words[1]) + 1);
+                    label3.Text = words[0] + " " + words[1] + ":" + (int.Parse(words[2]) + 1);
                     MessageBox.Show("Игрок 2 выиграл!", "Партия закончена");
                 }
                 k = 0;
