@@ -1,0 +1,11 @@
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\bin\Debug\Lab6.exe.config
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\bin\Debug\Lab6.exe
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\bin\Debug\Lab6.pdb
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\obj\Debug\Lab6.Form1.resources
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\obj\Debug\Lab6.exe
+D:\Misis\ООП(Объектно-орентирование программирование)\14(6)LAB\Lab6\obj\Debug\Lab6.pdb
