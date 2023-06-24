@@ -1,0 +1,14 @@
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\bin\Debug\Lab7.exe.config
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\bin\Debug\Lab7.exe
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\bin\Debug\Lab7.pdb
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\bin\Debug\System.Data.SQLite.dll
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\bin\Debug\System.Data.SQLite.xml
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\obj\Debug\Lab7.csproj.SuggestedBindingRedirects.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\obj\Debug\Lab7.Form1.resources
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\obj\Debug\Lab7.csproj.CopyComplete
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\obj\Debug\Lab7.exe
+D:\Misis\ООП(Объектно-орентирование программирование)\15(7)LAB\Lab7\obj\Debug\Lab7.pdb
